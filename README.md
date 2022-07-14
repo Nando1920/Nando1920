@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nando1920
+- 👋 Hi, I’m Fernando 
 - 👀 I’m interested in working as a software developer
 - 🌱 I’m currently learning React.JS to work alongside Java backends
 - 📫 How to reach me email: ftamayo1998@gmail.com phone 07478865765
