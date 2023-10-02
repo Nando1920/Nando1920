@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando 
-- 👀 I’m interested in working as a software developer
-- 🌱 I’m currently learning React.JS to work alongside Java backends
+- 👀 I’m interested in working as a .NET software developer
+- 🌱 I’m currently learning C# to work alongside my skills as a full stack developer
 - 📫 How to reach me email: ftamayo1998@gmail.com phone 07478865765
 
 <!---
